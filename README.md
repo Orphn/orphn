@@ -1,50 +1,69 @@
 # 👋 Hi, I'm Renan Rodrigues
 
-🎓 Systems Analysis and Development student at [Unicamp](https://www.unicamp.br), passionate about software engineering, system design, and game development.
+🎓 I'm a Systems Analysis and Development student at [Unicamp](https://www.unicamp.br), passionate about software engineering, system design, and game development. All of my coding projects are built from the ground, from my coding apps all the way to the games and websites.
+
+<p align="left">
+  <a href="https://github.com/Orphn?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Orphn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Orphn?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Orphn?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+**Languages**  
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="padding-right:5px;" />
+<br><br>
 
----
-
-## ✨ Highlights
-
-- 🧠 **[C Programming Exercises](https://github.com/Orphn/C-Program-Exercises)** – Practical C projects to strengthen foundational programming skills.  
-- 🔄 **[Multithreaded File Sorter](https://github.com/Orphn/Multithreaded-File-Sorter-UNICAMP)** – Multithreading and sorting system built in C for Operating Systems course.  
-- 🌿 **[Prysm Website](https://github.com/Orphn/Prysm-Responsive-Website)** – Responsive website promoting eco-friendly smartphones.  
-- 💰 **[FT-Coin](https://github.com/MarceloSantosBMDev/FT-coin)** – Wallet and transaction management system in C++ with MariaDB.
-
----
-
-## 🚀 Projects
-
-- 📚 **Semeia Code** – Python teaching program for high school students and development of accessible websites.  
-- 🌐 **Sites for All** – Free website development for individuals and small clients with a focus on accessibility.
+**Tools**  
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" style="padding-right:5px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40px" style="padding-right:5px;" />
+<br><br>
 
 ---
 
-## 🔍 Currently Learning
+### ✨ Highlights
 
-- Advanced C/C++ and Java (OOP, memory management, multithreading)  
-- Web development (HTML, CSS, JavaScript, React)  
-- 3D graphics & modeling with Unity (shaders, lighting, URP, texturing) using C#  
-- Backend integration and API design
+🧠 [**C Programming Exercises**](https://github.com/Orphn/C-Program-Exercises) – Strengthening CS foundations through practical C problems  
+🔄 [**Multithreaded File Sorter**](https://github.com/Orphn/Multithreaded-File-Sorter-UNICAMP) – Recursive sorter with threads in C  
+🌿 [**Prysm Website**](https://github.com/Orphn/Prysm-Responsive-Website) – Responsive site for eco-conscious tech  
+💰 [**FT-Coin**](https://github.com/MarceloSantosBMDev/FT-coin) – C++ wallet & coin management with MariaDB
 
 ---
 
-## 📫 Connect with me
+### 🚀 Projects
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/renan-felipe-rodrigues)  
-- 📧 renanfeliperodrigues.rodrigues@gmail.com
+📚 **Semeia Code** – Teaching Python to high school students and developing accessible websites  
+🌐 **Sites for All** – Creating free, accessible websites for individuals and small businesses
+
+---
+
+### 🔍 Currently Learning
+
+- Advanced **C/C++** and **Java**: OOP, memory, multithreading  
+- Web: **HTML**, **CSS**, **JavaScript**, **React**  
+- Game Dev: Unity shaders, URP, lighting, 3D modeling  
+- Backend & API integration
+
+---
+
+### 📫 Contact
+
+🌐 [LinkedIn](https://www.linkedin.com/in/renan-felipe-rodrigues)  
+📧 renanfeliperodrigues.rodrigues@gmail.com
