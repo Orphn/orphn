@@ -1,46 +1,26 @@
-# 👋 Olá! Eu sou o Renan Rodrigues
+# 👋 Hi, I'm Renan Rodrigues
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unicamp  
-💻 Desenvolvedor com foco em C, C++, Python, C# e JavaScript  
-🎮 Entusiasta de jogos digitais, atualmente estudando Unity 3D  
-🌱 Sempre em busca de aprendizado e novas experiências na área de tecnologia
+🎓 Systems Analysis and Development student at [Unicamp](https://www.unicamp.br), passionate about software engineering, system design, and games.
 
----
+💻 I work with:
+- **Programming languages**: Python, C/C++, C#, JavaScript
+- **Web development**: HTML5, CSS3, Responsive Design
+- **Game development**: Unity 3D with C#
+- **Databases**: MariaDB
+- **Version control**: Git & GitHub
 
-## 📌 Projetos em destaque
+🚀 Projects & Highlights:
+- 🧠 **[C Programming Exercises](https://github.com/Orphn/C-Program-Exercises)** – Reinforcing computer science foundations through practical problems in C.
+- 🔄 **[Multithreaded File Sorter](https://github.com/Orphn/Multithreaded-File-Sorter-UNICAMP)** – Operating Systems project using threads and recursive sorting logic.
+- 🌿 **[Prysm Website](https://github.com/Orphn/Prysm-Responsive-Website)** – A responsive platform promoting eco-friendly smartphones.
+- 💰 **[FT-Coin](https://github.com/Orphn/FT-coin)** – A C++ system for wallet and coin transaction management using MariaDB.
+- 📚 **Educational & Social Projects** – Teaching Python to high school students and developing simple websites for accessibility-focused clients.
 
-### 🔧 C-Program-Exercises
-Coleção de exercícios desenvolvidos em C para reforçar lógica, estruturas de dados, strings, ponteiros e alocação dinâmica.  
-📁 [Ver repositório](https://github.com/Orphn/C-Program-Exercises)
+🔍 I'm currently learning:
+- Advanced C++ (OOP, memory management, multithreading)
+- Unity game development & shading techniques
+- Backend integration and API design
 
-### ⚙️ Multithreaded-File-Sorter-UNICAMP
-Projeto final da disciplina de Sistemas Operacionais, utilizando threads e QuickSort para ordenar arquivos de forma paralela.  
-📁 [Ver repositório](https://github.com/Orphn/Multithreaded-File-Sorter-UNICAMP)
-
-### 🌐 Prysm – Responsive Website
-Website fictício para promover smartphones sustentáveis, com design moderno, animações e layout responsivo.  
-📁 [Ver repositório](https://github.com/Orphn/Prysm-Responsive-Website)
-
-### 💰 FT-Coin – Sistema de Carteira de Moedas
-Aplicativo em C++ com persistência em memória ou MariaDB, focado em controle de carteiras e transações financeiras.  
-📁 [Ver repositório](https://github.com/Orphn/FT-coin)
-
----
-
-## 🧰 Tecnologias e ferramentas
-
-- Linguagens: `C`, `C++`, `Python`, `C#`, `HTML`, `CSS`, `JavaScript`
-- Ferramentas: `Unity3D`, `GCC`, `Make`, `MariaDB`, `Git`, `VSCode`, `AOS`
-- Conceitos: programação multithread, algoritmos, front-end responsivo, modelagem de dados
-
----
-
-## 📫 Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/renan-felipe-rodrigues/)
-- [GitHub](https://github.com/Orphn)
-- renan.f.rodrigues@gmail.com
-
----
-
-⭐ **Sinta-se à vontade para explorar meus projetos e contribuir!**
+📫 Reach me at:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/renanfeliperodrigues/)
+- 📧 renanfeliperodrigues.rodrigues@gmail.com
