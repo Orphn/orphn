@@ -14,12 +14,14 @@
 - 🔄 **[Multithreaded File Sorter](https://github.com/Orphn/Multithreaded-File-Sorter-UNICAMP)** – Operating Systems project using threads and recursive sorting logic.
 - 🌿 **[Prysm Website](https://github.com/Orphn/Prysm-Responsive-Website)** – A responsive platform promoting eco-friendly smartphones.
 - 💰 **[FT-Coin](https://github.com/Orphn/FT-coin)** – A C++ system for wallet and coin transaction management using MariaDB.
+
 - 📚 **Educational & Social Projects** – Teaching Python to high school students and developing simple websites for accessibility-focused clients.
+- 🌐 **Sites for All** – Developing free websites for individuals and small clients, focused on accessibility and practical use.
 
 🔍 I'm currently learning:
 - C/C++ and Java (OOP, memory management, multithreading);
 - Web Development (HTML, CSS, JavaScript);
-- Unity game development & shading techniques;
+- 3D graphics & modeling with Unity (shaders, lighting, URP, texturing) using C#;
 - Backend integration and API design.
 
 📫 Reach me at:
