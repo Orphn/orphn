@@ -17,10 +17,11 @@
 - 📚 **Educational & Social Projects** – Teaching Python to high school students and developing simple websites for accessibility-focused clients.
 
 🔍 I'm currently learning:
-- Advanced C++ (OOP, memory management, multithreading)
-- Unity game development & shading techniques
-- Backend integration and API design
+- C/C++ and Java (OOP, memory management, multithreading);
+- Web Development (HTML, CSS, JavaScript);
+- Unity game development & shading techniques;
+- Backend integration and API design.
 
 📫 Reach me at:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/renanfeliperodrigues/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/renan-felipe-rodrigues)
 - 📧 renanfeliperodrigues.rodrigues@gmail.com
