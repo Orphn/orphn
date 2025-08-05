@@ -16,7 +16,7 @@
 - 💰 **[FT-Coin](https://github.com/MarceloSantosBMDev/FT-coin)** – A C++ system for wallet and coin transaction management using MariaDB.
 
 🚀 Projects:
-- 📚 **Educational & Social Projects** – Teaching Python to high school students and developing simple websites for accessibility-focused clients.
+- 📚 **Semeia Code** – Teaching Python to high school students and developing simple websites for accessibility-focused clients.
 - 🌐 **Sites for All** – Developing free websites for individuals and small clients, focused on accessibility and practical use.
 ---
 🔍 I'm currently learning:
