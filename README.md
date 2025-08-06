@@ -55,9 +55,9 @@
 
 ### 🔍 Currently Learning
 
-- Advanced **C/C++** and **Java**: OOP, memory, multithreading  
-- Web: **HTML**, **CSS**, **JavaScript**, **React**  
-- Game Dev: Unity shaders, URP, lighting, 3D modeling  
+- Advanced C/C++ and Java: OOP, memory, multithreading  
+- Web: HTML, CSS, JavaScript 
+- Game Dev: Unity C#, shaders, URP, lighting, 3D modeling in Blender 
 - Backend & API integration
 
 ---
