@@ -64,7 +64,7 @@
 
 ### 📊 Stats
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Orphn&show_icons=true&theme=transparent&hide_rank=false&line_height=24) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orphn&layout=donut&theme=transparent&line_height=24) |
+| ![Stats](https://github-readme-stats-orphn.vercel.app/api?username=Orphn&show_icons=true&theme=transparent&hide_rank=false&line_height=24) | ![Top Langs](https://github-readme-stats-orphn.vercel.app/api/top-langs/?username=Orphn&layout=donut&theme=transparent&line_height=24) |
 |---|---|
 
 ---
