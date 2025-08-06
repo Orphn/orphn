@@ -33,7 +33,6 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="padding-right:5px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" style="padding-right:5px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" style="padding-right:5px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40px" style="padding-right:5px;" />
 <br><br>
 
 ---
@@ -60,6 +59,13 @@
 - Web: **HTML**, **CSS**, **JavaScript**, **React**  
 - Game Dev: Unity shaders, URP, lighting, 3D modeling  
 - Backend & API integration
+
+---
+
+### 📊 Stats
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Orphn&show_icons=true&theme=transparent&hide_rank=false&line_height=24) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orphn&layout=donut&theme=transparent&line_height=24) |
+|---|---|
 
 ---
 
