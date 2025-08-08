@@ -2,14 +2,8 @@
 
 🎓 I'm a Systems Analysis and Development student at [Unicamp](https://www.unicamp.br), passionate about software engineering, system design, and game development. All of my coding projects are built from the ground, from my coding apps all the way to the games and websites.
 
-<p align="left">
-  <a href="https://github.com/Orphn?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Orphn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Orphn?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Orphn?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
+![Followers](https://img.shields.io/github/followers/Orphn?color=blue&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Orphn?color=green&style=for-the-badge)
 
 ---
 
@@ -66,7 +60,5 @@
 
 ---
 
-### 📫 Contact
-
-🌐 [LinkedIn](https://www.linkedin.com/in/renan-felipe-rodrigues)  
-📧 renanfeliperodrigues.rodrigues@gmail.com
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renanf.rodrigues) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renan-felipe-rodrigues)
