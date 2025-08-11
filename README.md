@@ -54,7 +54,7 @@ I'm a Systems Analysis and Development student at [Unicamp](https://www.unicamp.
 
 <h2>📊 Stats</h2>
 
-| ![Stats](https://github-readme-stats-orphn.vercel.app/api?username=Orphn&show_icons=true&theme=transparent&hide_rank=false&line_height=24) | ![Top Langs](https://github-readme-stats-orphn.vercel.app/api/top-langs/?username=Orphn&layout=donut&theme=transparent&line_height=24) |
+| ![Stats](https://github-readme-stats-orphn.vercel.app/api?username=Orphn&show_icons=true&theme=transparent&hide_rank=false&line_height=30) | ![Top Langs](https://github-readme-stats-orphn.vercel.app/api/top-langs/?username=Orphn&langs_count=8&hide=mathematica,smalltalk&layout=donut&theme=transparent&line_height=24) |
 |---|---|
 
 ---
