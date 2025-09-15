@@ -67,7 +67,7 @@ I'm a Systems Analysis and Development student at [Unicamp](https://www.unicamp.
 ---
 
 <details>
-  <summary><h2>🎯 More About Me</h2></summary>
+  <summary><h2>🎯 About Me</h2></summary>
 
   <p>I'm currently a Systems Analysis and Development student at <a href="https://www.unicamp.br">Unicamp</a>. I have a strong passion for software engineering and development, system design, and game development. Throughout my academic journey, I have been deeply involved in building projects from the ground up, whether it's developing applications, designing systems, or creating games and websites.</p>
 
